@@ -1,0 +1,6 @@
+[core]
+    remote = myonedriveremote
+['remote "myremote"']
+    url = gdrive://1mcaXvdpauoZC6SEDdrbKuRvnqUMvPn-a
+['remote "myonedriveremote"']
+    url = C:/Users/Yash/OneDrive/dvc-remote
